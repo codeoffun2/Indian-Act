@@ -154,6 +154,7 @@ code {
 
 <p style="font-size:30px">
 <b>The Indian Act </b>
+<br>
 What is the Indian Act?
 <br>
 
