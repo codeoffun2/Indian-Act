@@ -55,7 +55,6 @@ span {
 <b>
 The Indian Act
 </b>
-</div>
 </p>
 <br> 
 
