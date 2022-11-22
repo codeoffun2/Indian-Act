@@ -129,15 +129,7 @@ code {
 </head>
 <body>
 
-<div class="topnav">
-<div id="content-desktop">
-  <a class="active" href="https://codeoffun.ddns.net">Home</a>
-  <a href="https://codeoffun.ddns.net/projects">Projects</a>
-  <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
-    <a href="https://codeoffun.ddns.net/contact">Contact</a>
-  <a href="https://codeoffun.ddns.net/about">About</a>
-  <a href="https://codeoffun.ddns.net/blog">Blog</a>  
-  </div>
+
 <div id="content-mobile">
   <div style="float:left" >
 
@@ -151,13 +143,7 @@ code {
     <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
-    <div class="dropdown-content">
-      <a href="https://codeoffun.ddns.net/projects">Projects</a>
-      <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
-        <a href="https://codeoffun.ddns.net/contact">Contact</a>
-      <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/blog">Blog</a>
-  </div> 
+    
     </div>
   </div>
 </div>
@@ -168,7 +154,7 @@ code {
 <!-- end of button code -->
 
 <p style="font-family: Helvetica">Hello there!👋
-<br> I'm codeoffun and I know a little bit of coding!
+What is the Indian Act?
 <br>
 
   </p>
