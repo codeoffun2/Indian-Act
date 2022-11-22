@@ -153,7 +153,7 @@ code {
 <p style="font-family: Helvetica">
 
 <p style="font-size:30px">
-<p><b>The Indian Act </b></p>
+<<b>The Indian Act </b></p>
 <br>
 
 
