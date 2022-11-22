@@ -151,6 +151,9 @@ code {
 <!-- end of button code -->
 
 <p style="font-family: Helvetica">
+
+<p style="font-size:30px">
+<b>The Indian Act </b>
 What is the Indian Act?
 <br>
 
