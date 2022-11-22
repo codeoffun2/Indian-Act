@@ -34,7 +34,7 @@ span {
     padding: 5px;
     font-size: 20px;
     background-color: white;
-    color: #ffffff;
+    color: #000000;
 }
 }
 </style>
