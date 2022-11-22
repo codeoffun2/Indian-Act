@@ -159,7 +159,7 @@ code {
 
 <p style="font-size:25px">
 What is the Indian Act?
-<br>
+<br> <p>
 
 <p style="font-size:20px">
 
