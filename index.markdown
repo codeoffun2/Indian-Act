@@ -29,9 +29,13 @@ body {
 
 
 span { 
-    background-color: white; 
+  display: table;
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    font-size: 20px;
+    background-color: white;
+    color: #ffffff;
 }
-
 }
 </style>
 
