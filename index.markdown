@@ -133,16 +133,13 @@ code {
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i></a> 
-    </div>
+     
 
  <div style="float:right" >
 
 <div class="dropdown">
 
-    <button class="dropbtn">
-      <i class="fa fa-bars"></i>
-    </button>
+    
     
     </div>
   </div>
@@ -153,7 +150,7 @@ code {
 
 <!-- end of button code -->
 
-<p style="font-family: Helvetica">Hello there!👋
+<p style="font-family: Helvetica">
 What is the Indian Act?
 <br>
 
