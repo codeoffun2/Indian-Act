@@ -18,7 +18,12 @@ layout: home
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#cca677;">
 <link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
-
+<link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Open Sans';font-size: 22px;
+}
+</style>
 <html>
 <head>
 <style>
