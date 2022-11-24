@@ -88,7 +88,7 @@ The Indian Act was established to generalize First Nations people into people of
   </p>
 <left>
 <img src="residentialschools1.jpeg" width="400" 
-     height="500">
+     height="300">
 
 
 
@@ -112,7 +112,7 @@ Citation: RSC 1985, c I-5 <br>
 
                                  </span>
  <img src="skool.png" width="400" 
-     height="500">
+     height="300">
     
     <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How did this affect the first nations? <br> </p>
