@@ -53,18 +53,7 @@ span {
 100% { left: -400%; }
 }
 
-body { margin: 0; } 
-div#slider { overflow: hidden; }
-div#slider figure img { width: 20%; float: left; }
-div#slider figure { 
-  position: relative;
-  width: 100%;
-  margin: 0;
-  left: 0;
-  text-align: left;
-  font-size: 0;
-  animation: 30s slidy infinite; 
-}
+
 
 }
 </style>
@@ -96,20 +85,17 @@ What is the Indian Act?
 The Indian Act was established to generalize First Nations people into people of their own (The British). The British looked at themselves as more superior than the First Nations and that it was their responsibility to convert them to Christianity.The act was also designed to prevent First Nations people from expressing themselves and revealing their true identities. </span>
 
   </p>
-<div id="slider">
-<figure>
+
 <img src="residentialschools1.jpeg" width="400" 
      height="500">
-<img src="skool.png" width="400" 
-     height="500">
-</figure>
-</div>
+
+
 
     <!-- slide template
    <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 title goes here  <br> </p>
 
-<p style="font-size:18px"> <span
+<p style="font-size:18px"> <span>
                        text goes here          
                                  </span>
 
@@ -118,17 +104,19 @@ title goes here  <br> </p>
 Details o the event:
   <br> </p>
 
-<p style="font-size:18px"> <span
+<p style="font-size:18px"> <span>
 Date of the act: The Indian Act was created in 1876 <br>
 People involved in the act: The act was passed by the Parliament of Canada <br>
 Citation: RSC 1985, c I-5 <br>
 
                                  </span>
- 
+ <img src="skool.png" width="400" 
+     height="500">
+    
     <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How did this affect the first nations? <br> </p>
 
-<p style="font-size:18px"> <span
+<p style="font-size:18px"> <span>
                        Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
                                  </span>
     
