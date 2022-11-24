@@ -97,7 +97,6 @@ What is the Indian Act?
 The Indian Act was established to generalize First Nations people into people of their own (The British). The British looked at themselves as more superior than the First Nations and that it was their responsibility to convert them to Christianity.The act was also designed to prevent First Nations people from expressing themselves and revealing their true identities. </span>
 
   </p>
-<base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
 <div id="slider">
 <figure>
 <img src="residentialschools1.jpeg" alt>
