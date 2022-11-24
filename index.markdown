@@ -105,22 +105,35 @@ title goes here  <br> </p>
 Details o the event:
   <br> </p>
 
-<p style="font-size:18px"> <span>
-Date of the act: The Indian Act was created in 1876 <br>
-People involved in the act: The act was passed by the Parliament of Canada <br>
-Citation: RSC 1985, c I-5 <br>
+<p style="font-size:18px"> <span> 
+Date of the act: The Indian Act was created in 1876 
+People involved in the act: The act was passed by the Parliament of Canada 
+    Citation: RSC 1985, c I-5 
 
                                  </span>
  <img src="skool.png" width="400" 
      height="300">
     
-    <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+<p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How did this affect the first nations? <br> </p>
 
 <p style="font-size:18px"> <span>
-                       Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
+Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
                                  </span>
-    
+     <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+How does this still affect Canada today?  <br> 
+
+<p style="font-size:18px"> <span>
+Canada now has a problem overcoming this act due to the mass amounts of violence, intimidation and discrimination it has caused. Many protests have been held over this and Canada is often trying their best to overcome the problems, they often carry out the words “Indian Persists”
+        
+                                 </span>
+ <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+title goes here  <br> </p>
+
+<p style="font-size:18px"> <span>
+                       text goes here          
+                                 </span>
+
 
 
 
