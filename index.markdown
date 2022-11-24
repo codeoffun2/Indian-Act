@@ -99,9 +99,9 @@ The Indian Act was established to generalize First Nations people into people of
   </p>
 <div id="slider">
 <figure>
-<img src="residentialschools1.jpeg" alt width="400" 
+<img src="residentialschools1.jpeg" width="400" 
      height="500">
-<img src="skool.png" alt width="400" 
+<img src="skool.png" width="400" 
      height="500">
 </figure>
 </div>
