@@ -58,7 +58,7 @@ div#slider { overflow: hidden; }
 div#slider figure img { width: 20%; float: left; }
 div#slider figure { 
   position: relative;
-  width: 500%;
+  width: 100%;
   margin: 0;
   left: 0;
   text-align: left;
@@ -79,7 +79,6 @@ div#slider figure {
 
 
 
-<p style="font-family: Helvetica">
 
   <p style="font-size:30px"> 
 <b>
@@ -106,7 +105,24 @@ The Indian Act was established to generalize First Nations people into people of
 </figure>
 </div>
 
+    <!-- slide example
+   <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+title goes here  <br> </p>
 
+<p style="font-size:18px"> <span
+                       text goes here          
+                                 </span>
 
+-->
+     <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+Details o the event:
+  <br> </p>
+
+<p style="font-size:18px"> <span
+Date of the act: The Indian Act was created in 1876 <br>
+People involved in the act: The act was passed by the Parliament of Canada <br>
+Citation: RSC 1985, c I-5 <br>
+
+                                 </span>
 
 
