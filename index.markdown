@@ -105,12 +105,12 @@ title goes here  <br> </p>
 Details o the event:
   <br> </p>
 
-<p style="font-size:18px"> <span> 
+<p style="font-size:18px"> <span> <p>
 Date of the act: The Indian Act was created in 1876 <br>
 People involved in the act: The act was passed by the Parliament of Canada <br>
     Citation: RSC 1985, c I-5 
 
-                                 </span>
+    </p>  </span> 
     <br>
  <img src="skool.png" width="400" 
      height="300">
