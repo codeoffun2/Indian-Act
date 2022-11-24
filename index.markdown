@@ -105,7 +105,7 @@ The Indian Act was established to generalize First Nations people into people of
 </figure>
 </div>
 
-    <!-- slide example
+    <!-- slide template
    <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 title goes here  <br> </p>
 
@@ -124,5 +124,14 @@ People involved in the act: The act was passed by the Parliament of Canada <br>
 Citation: RSC 1985, c I-5 <br>
 
                                  </span>
+ 
+    <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+How did this affect the first nations? <br> </p>
+
+<p style="font-size:18px"> <span
+                       Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
+                                 </span>
+    
+
 
 
