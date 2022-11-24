@@ -100,10 +100,7 @@ The Indian Act was established to generalize First Nations people into people of
 <div id="slider">
 <figure>
 <img src="residentialschools1.jpeg" alt>
-<img src="taj-mahal_copy.jpg" alt>
-<img src="ibiza.jpg" alt>
-<img src="ankor-wat.jpg" alt>
-<img src="austin-fireworks.jpg" alt>
+<img src="https://en.m.wikipedia.org/wiki/File:Kamloops-indian-residential-school-1930.png" alt>
 </figure>
 </div>
 
