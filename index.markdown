@@ -128,10 +128,10 @@ Canada now has a problem overcoming this act due to the mass amounts of violence
         
                                  </span>
  <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
-title goes here  <br> </p>
+ <br>How does it connect Canada today? </p>
 
 <p style="font-size:18px"> <span>
-                       text goes here          
+It still connects to Canada to this day because we are now learning from this huge mistake and now respecting the First Nations as a way to apologize. We often remember them on our announcements and we have days like orange shirt day.
                                  </span>
 
 
