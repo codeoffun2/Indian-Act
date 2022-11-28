@@ -121,7 +121,7 @@ How did this affect the first nations? <br> </p>
 <p style="font-size:18px"> <span>
 Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
                                  </span>
-     <img src="https://i.cbc.ca/1.3454147.1460566069!/fileImage/httpImage/pass-system-for-yahyahkeekoot.jpg" width="400" 
+     <img src="act.jpg" width="400" 
      height="300">
      <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How does this still affect Canada today?  <br> 
