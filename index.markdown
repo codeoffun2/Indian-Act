@@ -121,6 +121,8 @@ How did this affect the first nations? <br> </p>
 <p style="font-size:18px"> <span>
 Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
                                  </span>
+     <img src="https://i.cbc.ca/1.3454147.1460566069!/fileImage/httpImage/pass-system-for-yahyahkeekoot.jpg" width="400" 
+     height="300">
      <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How does this still affect Canada today?  <br> 
 
@@ -135,6 +137,16 @@ Canada now has a problem overcoming this act due to the mass amounts of violence
 It still connects to Canada to this day because we are now learning from this huge mistake and now respecting the First Nations as a way to apologize. We often remember them on our announcements and we have days like orange shirt day.
                                  </span>
 
+  <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
+Sources:  <br> </p>
+
+<p style="font-size:18px"> <span>
+Resources and credits:
+
+-Google <br>
+-https://www.thecanadianencyclopedia.ca/en/article/indian-act <br>
+-history slides <br>
+    </span>
 
 
 
