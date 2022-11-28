@@ -30,6 +30,7 @@ body {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 
@@ -55,7 +56,21 @@ span {
 
 left { text-align: left; }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  
+    width: 33.33%;
+  padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+    
 }
 </style>
 
@@ -87,8 +102,18 @@ The Indian Act was established to generalize First Nations people into people of
 
   </p>
 <left>
-<img src="residentialschools1.jpeg" width="400" 
-     height="300">
+    <div class="row">
+  <div class="column">
+    <img src="residentialschools1.jpeg" alt="sad students at a residential school" style="width:100%" height="300">
+  </div>
+  <div class="column">
+    <img src="skool.png" alt="school" style="width:100%" height="300">
+  </div>
+  <div class="column">
+    <img src="skool.png" alt="Mountains" style="width:100%" height="300">
+  </div>
+</div>
+
 
 
 
@@ -112,8 +137,7 @@ Date of the act: The Indian Act was created in 1876 <br>
     </p>
      
     <br>
- <img src="skool.png" width="400" 
-     height="300">
+
     
 <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How did this affect the first nations? <br> </p>
@@ -121,8 +145,7 @@ How did this affect the first nations? <br> </p>
 <p style="font-size:18px"> <span>
 Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
                                  </span>
-     <img src="act.jpg" width="400" 
-     height="300">
+    
      <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 How does this still affect Canada today?  <br> 
 
