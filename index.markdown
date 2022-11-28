@@ -104,13 +104,13 @@ The Indian Act was established to generalize First Nations people into people of
 <left>
     <div class="row">
   <div class="column">
-    <img src="residentialschools1.jpeg" alt="sad students at a residential school" style="width:100%" height="300">
+    <img src="residentialschools1.jpeg" alt="sad students at a residential school" width="400" height="300" >
   </div>
   <div class="column">
-    <img src="skool.png" alt="school" style="width:100%" height="300">
+    <img src="skool.png" alt="school"  height="300" width="400">
   </div>
   <div class="column">
-    <img src="skool.png" alt="Mountains" style="width:100%" height="300">
+    <img src="skool.png" alt="Mountains"  height="300" width="400">
   </div>
 </div>
 
