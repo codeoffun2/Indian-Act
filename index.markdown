@@ -98,7 +98,8 @@ What is the Indian Act?
   <br> </p>
 
 <p style="font-size:18px"> <span>
-The Indian Act was established to generalize First Nations people into people of their own (The British). The British looked at themselves as more superior than the First Nations and that it was their responsibility to convert them to Christianity.The act was also designed to prevent First Nations people from expressing themselves and revealing their true identities. </span>
+The Indian Act was established to generalize First Nations people into people of their own (The British). The British looked at themselves as more superior than the First Nations and that it was their responsibility to convert them to Christianity. The act was also designed to prevent First Nations people from expressing themselves and revealing their true identities. 
+ </span>
 
   </p>
 <left>
@@ -132,8 +133,13 @@ Details o the event:
 
 <p style="font-size:18px"> 
 Date of the act: The Indian Act was created in 1876 <br>
-    People involved in the act: The act was passed by the Parliament of Canada 
-    <br> Citation: RSC 1985, c I-5 
+People involved in the act: The act was passed by the Parliament of Canada <br>
+Citation: RSC 1985, c I-5 <br>
+The residential schools were open between 1831 to 1996.
+
+
+
+
     </p>
      
     <br>
@@ -143,7 +149,8 @@ Date of the act: The Indian Act was created in 1876 <br>
 How did this affect the first nations? <br> </p>
 
 <p style="font-size:18px"> <span>
-Many First Nations were affected during this act because many traditions and cultures were forgotten. They also had to give up their children to let them go to residential schools.        
+Many First Nations were affected during this act because many traditions and cultures were forgotten. They were unable to express their true identities. One of the many traditions and spirits losts was their hair because the British found it as weird. They also had to give up their children to let them go to residential schools.
+    
                                  </span>
     
      <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
@@ -157,8 +164,7 @@ Canada now has a problem overcoming this act due to the mass amounts of violence
  <br>How does it connect Canada today? </p>
 
 <p style="font-size:18px"> <span>
-It still connects to Canada to this day because we are now learning from this huge mistake and now respecting the First Nations as a way to apologize. We often remember them on our announcements and we have days like orange shirt day.
-                                 </span>
+It still connects to Canada to this day because we are now learning from this huge mistake and now respecting the First Nations as a way to apologize. We often remember them in our announcements and we have days like orange shirt day.     </span>
 
   <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 Sources:  <br> </p>
