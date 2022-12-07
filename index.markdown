@@ -128,7 +128,7 @@ title goes here  <br> </p>
 
 -->
      <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
-Details o the event:
+Details about the event:
   </p>
 
 <p style="font-size:18px"> 
@@ -165,7 +165,7 @@ Canada now has a problem overcoming this act due to the mass amounts of violence
 
 <p style="font-size:18px"> <span>
 It still connects to Canada to this day because we are now learning from this huge mistake and now respecting the First Nations as a way to apologize. We often remember them in our announcements and we have days like orange shirt day.     </span>
-
+<img src="88941F06-E248-4391-A398-74A57C697B3E.png">
   <p style="font-size:20px; border-width:3px; border-style:solid; border-color:#FFFFFF; padding: 1em;">
 Sources:  <br> </p>
 
